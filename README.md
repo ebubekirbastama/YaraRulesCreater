@@ -1,9 +1,4 @@
 # YaraRulesCreater
-           Yara Rules Creater
-           
-            # Ücretli Destek ve Bağış Yapmak için
-  
-
   
 Bizlere Destek Olmak için:
 Bu proje gibi projelerin gelmesi ve bizlere destek olmak için bağış yapabilirsiniz.
